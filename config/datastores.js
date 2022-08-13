@@ -34,7 +34,7 @@ module.exports.datastores = {
 
   default: {
     adapter : 'sails-mongo',
-    url     : 'mongodb+srv://elcaesar:cesar.teco@cluster0.qlzeq4o.mongodb.net/ecommerce'
+    url     : 'mongodb+srv://<user>:<pass>@cluster0.qlzeq4o.mongodb.net/ecommerce'
 
     /***************************************************************************
     *                                                                          *
